@@ -1,0 +1,11 @@
+.img-header {
+    width: 400px;
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.img-main {
+    width: 700px;
+    max-width: 100%;
+    border-radius: 20px;
+}
